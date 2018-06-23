@@ -25,5 +25,8 @@
   },
   "engines": {
     "yarn": ">= 1.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.7.2"
   }
 }
