@@ -5,6 +5,8 @@ This is a fork of the [Seed App project template](https://github.com/angular/ang
 1. uses the version 1.7.x of AngularJS;
 2. uses `yarn` instead of `bower`.
 
+*Warning*: this is still a work in progress, it is not ready for being used.
+
 ## Related information
 
 * Migration from bower to yarn done using [bower-away](https://github.com/sheerun/bower-away)
