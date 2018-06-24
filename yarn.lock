@@ -2,6 +2,26 @@
 # yarn lockfile v1
 
 
+"@bower_components/angular-loader@angular/bower-angular-loader#1.7.x":
+  version "1.7.2"
+  resolved "https://codeload.github.com/angular/bower-angular-loader/tar.gz/904fffde5708265536378304af45a49d846bc665"
+
+"@bower_components/angular-mocks@angular/bower-angular-mocks#1.7.x":
+  version "1.7.2"
+  resolved "https://codeload.github.com/angular/bower-angular-mocks/tar.gz/969089c01b191ccd60c5ae926b7e0a40579b9e76"
+
+"@bower_components/angular-route@angular/bower-angular-route#1.7.x":
+  version "1.7.2"
+  resolved "https://codeload.github.com/angular/bower-angular-route/tar.gz/c0fc6f7f7a426bf0a8bfe0aa851fe718f8852594"
+
+"@bower_components/angular@angular/bower-angular#1.7.2":
+  version "1.7.2"
+  resolved "https://codeload.github.com/angular/bower-angular/tar.gz/f3064b43af7e169a3755bb093b49626a7aa56e6f"
+
+"@bower_components/html5-boilerplate@h5bp/html5-boilerplate#^5.3.0":
+  version "5.3.0"
+  resolved "https://codeload.github.com/h5bp/html5-boilerplate/tar.gz/77c09009f634ad79f78b61864d6d3bfe3694b078"
+
 "@types/node@^6.0.46":
   version "6.0.113"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.113.tgz#4b41f38ad03e4b41f9dc259b3b58aecb22c9aebc"
@@ -832,6 +852,19 @@ fast-json-stable-stringify@^2.0.0:
 fast-levenshtein@~2.0.4:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
+
+file-match@^1.0.1:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/file-match/-/file-match-1.0.2.tgz#c9cad265d2c8adf3a81475b0df475859069faef7"
+  dependencies:
+    utils-extend "^1.0.6"
+
+file-system@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/file-system/-/file-system-2.2.2.tgz#7d65833e3a2347dcd956a813c677153ed3edd987"
+  dependencies:
+    file-match "^1.0.1"
+    utils-extend "^1.0.4"
 
 file-uri-to-path@1:
   version "1.0.0"
@@ -2816,6 +2849,10 @@ useragent@2.2.1:
 util-deprecate@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
+
+utils-extend@^1.0.4, utils-extend@^1.0.6:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/utils-extend/-/utils-extend-1.0.8.tgz#ccfd7b64540f8e90ee21eec57769d0651cab8a5f"
 
 utils-merge@1.0.1:
   version "1.0.1"
