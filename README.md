@@ -2,6 +2,8 @@
 
 This is a fork of the [Seed App project template](https://github.com/angular/angular-seed).
 
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lackovic/angularjs-v17-seed)
+
 The goal of this project is to create a minimalist template similar to the seed app project, but with the following differences:
 
 1. uses the version 1.7.x of AngularJS;
