@@ -1,6 +1,10 @@
-# A template for AngularJS 1.7.x apps
+# The seed for AngularJS 1.7.x apps
 
-This is a fork of the [Seed App project template](https://github.com/angular/angular-seed).
+This project has been superseded by [angularjs-starter-kit](https://github.com/lackovic/angularjs-starter-kit) and is no longer mantained.
+
+## Description
+
+This is a - **not working yet** - (see the unresolved issue below) fork of the [Seed App project template](https://github.com/angular/angular-seed).
 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lackovic/angularjs-v17-seed)
 
@@ -8,8 +12,6 @@ The goal of this project is to create a minimalist template similar to the seed 
 
 1. uses the version 1.7.x of AngularJS;
 2. uses `yarn` instead of `bower`.
-
-*Warning*: this is still a work in progress, it is not working yet (see the unresolved issue below).
 
 ## Related information
 
