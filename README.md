@@ -8,7 +8,7 @@ This is a - **not working yet** - (see the unresolved issue below) fork of the [
 
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lackovic/angularjs-v17-seed)
 
-The goal of this project is to create a minimalist template similar to the seed app project, but with the following differences:
+The goal of this project is to create a seed AngularJS project template, but with the following differences:
 
 1. uses the version 1.7.x of AngularJS;
 2. uses `yarn` instead of `bower`.
